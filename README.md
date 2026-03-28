@@ -4,7 +4,7 @@
 
 I design and deploy intelligent systems, autonomous AI agents, and end-to-end automation workflows that solve real-world business problems. I help businesses reduce manual effort, streamline operations, and scale without scaling headcount — by combining the most powerful AI and automation tools available today.
 
----
+
 
 ## 🚀 What I Do
 
@@ -20,7 +20,7 @@ End-to-end GoHighLevel builds — from high-converting sales funnels and landing
 ### 📊 Data Orchestration
 Structuring dynamic data backends using Google Sheets and Airtable to power automation logic, dashboards, and real-time reporting.
 
----
+
 
 ## 🛠️ Tools & Platforms
 
@@ -31,7 +31,7 @@ Structuring dynamic data backends using Google Sheets and Airtable to power auto
 | 🚀 CRM & Marketing | GoHighLevel (GHL) |
 | 📊 Data Backends | Google Sheets, Airtable |
 
----
+
 
 ## 💼 Areas of Expertise
 
@@ -45,7 +45,7 @@ Structuring dynamic data backends using Google Sheets and Airtable to power auto
 - **Airtable & Google Sheets Backends** — Structured data systems that serve as the backbone for automation logic
 - **End-to-End System Design** — Connecting AI, CRM, voice, and automation into one seamless business engine
 
----
+
 
 ## 📂 What's in This Portfolio
 
@@ -58,7 +58,7 @@ Each project in this repository demonstrates a real-world use case built with th
 - Data orchestration setups with Airtable and Google Sheets
 - End-to-end business automation case studies
 
----
+
 
 ## 📬 Let's Connect
 
@@ -69,6 +69,6 @@ I am available for freelance projects, collaborations, and consulting engagement
 | 📧 Email | [olugbamilaboluwatifeprecious@gmail.com](mailto:olugbamilaboluwatifeprecious@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/boluwatife-olugbamila-582227297](https://www.linkedin.com/in/boluwatife-olugbamila-582227297/) |
 
----
+
 
 > *Every workflow here started with a problem worth solving. Bring me yours.*
